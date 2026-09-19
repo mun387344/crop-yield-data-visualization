@@ -1,0 +1,78 @@
+# 🌾 Crop Yield Data Visualization
+
+## 📌 Project Overview
+
+This project explores crop yield data using **Python, Matplotlib, and Seaborn**.
+
+The project demonstrates different data visualization techniques to examine crop yield, rainfall, and temperature across agricultural regions.
+
+## 🎯 Objectives
+
+- Practice data visualization using Matplotlib and Seaborn.
+- Compare crop yields across different regions.
+- Explore the relationship between rainfall and crop yield.
+- Examine the distribution of crop yield.
+- Visualize relationships between rainfall, temperature, and yield.
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+- Jupyter Notebook
+
+## 📊 Dataset
+
+The project uses a small agricultural dataset containing five regions and three numerical variables:
+
+- **Rainfall** — measured in millimeters (mm)
+- **Temperature** — measured in degrees Celsius (°C)
+- **Yield** — measured in tons per hectare
+
+## 📈 Visualizations
+
+The project includes:
+
+### 1. Line Plot
+Shows the crop yield trend across the dataset.
+
+### 2. Bar Chart
+Compares crop yield across regions.
+
+### 3. Histogram
+Shows the distribution of crop yield values.
+
+### 4. Scatter Plot
+Explores the relationship between rainfall and crop yield.
+
+### 5. Seaborn Histogram
+Visualizes the crop yield distribution using Seaborn.
+
+### 6. Box Plot
+Shows the distribution and spread of crop yield values.
+
+### 7. Pair Plot
+Compares the relationships between rainfall, temperature, and crop yield.
+
+## 📂 Project Structure
+
+```text
+crop-yield-data-visualization/
+│
+├── Crop_Yield_Data_Visualization.ipynb
+└── README.md
+```
+
+## 🚀 How to Run the Project
+
+1. Clone this repository.
+2. Open the notebook in Google Colab or Jupyter Notebook.
+3. Run the cells from top to bottom.
+
+## 👩‍💻 Author
+
+**Muna Mohammed Husen**
+
+This project was completed as part of my data analysis learning journey and demonstrates practical data visualization skills using Python, Matplotlib, and Seaborn.
